@@ -1564,3 +1564,51 @@
 /Textures/green_L.dds
 /Textures/red_L.dds
 /Textures/white_L.dds
+/Config/Spacecraft/DeltaGlider.ini
+/Config/Spacecraft/DeltaGlider01.ini
+/Config/Spacecraft/DeltaGlider02.ini
+/Config/Spacecraft/Doll_1.ini
+/Config/Spacecraft/Doll_2.ini
+/Config/Spacecraft/Doll_3.ini
+/Config/Spacecraft/Doll_4.ini
+/Config/Spacecraft/Doll_5.ini
+/Config/Spacecraft/Doll_6.ini
+/Config/Spacecraft/GL-VH.ini
+/Config/Spacecraft/Hst.ini
+/Config/Spacecraft/Platform.ini
+/Config/Spacecraft/STS-101.ini
+/Config/Spacecraft/STS-102.ini
+/Config/Spacecraft/STS-31.ini
+/Config/Spacecraft/Spacecraft.cfg
+/Config/Spacecraft/Spacecraft2.cfg
+/Config/Spacecraft/Spacecraft3.cfg
+/Config/Spacecraft/Spacecraft4.cfg
+/Config/Spacecraft/maqsat-b.cfg
+/Config/Spacecraft/maqsat-b.ini
+/Config/Spacecraft/maqsat-g.cfg
+/Config/Spacecraft/maqsat-g.ini
+/Config/Spacecraft/maqsat-r.cfg
+/Config/Spacecraft/maqsat-r.ini
+/Config/Spacecraft/module1a.ini
+/Meshes/spacecraft/doll_1.msh
+/Meshes/spacecraft/doll_2.msh
+/Meshes/spacecraft/doll_3.msh
+/Meshes/spacecraft/doll_4.msh
+/Meshes/spacecraft/doll_5.msh
+/Meshes/spacecraft/doll_6.msh
+/Meshes/spacecraft/maqsat-b.msh
+/Meshes/spacecraft/maqsat-g.msh
+/Meshes/spacecraft/maqsat-r.msh
+/Meshes/spacecraft/platform.msh
+/Scenarios/Vinka's spacecraft/Animations.scn
+/Scenarios/Vinka's spacecraft/Atlantis - Hst.scn
+/Scenarios/Vinka's spacecraft/Atlantis - RMS.scn
+/Scenarios/Vinka's spacecraft/Atlantis Final Approach.scn
+/Scenarios/Vinka's spacecraft/Atlantis.scn
+/Scenarios/Vinka's spacecraft/Delta Glider Final Approach.scn
+/Scenarios/Vinka's spacecraft/Deltaglider landed.scn
+/Scenarios/Vinka's spacecraft/Deltaglider.scn
+/Scenarios/Vinka's spacecraft/Multiple Docking.scn
+/Scenarios/Vinka's spacecraft/Russian Dolls.scn
+/Scenarios/Vinka's spacecraft/Vertical Take Off - Horizontal Landing.scn
+/add-on docs/spacecraft.pdf
