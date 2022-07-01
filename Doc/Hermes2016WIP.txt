@@ -1,0 +1,13 @@
+This is a work-in-progress implementation of ESA's Hermes Shuttle, using VesselBuilder (required).
+The launch vehicle is a Multistage2015 Ariane 5 (Kourou and rockets required). I've added my old Man Tended Free Flyer (spacecraft3) as a possible mission target and a runway at Istres (planned landing site).
+
+The addon is not complete. You should be able to launch into Orbit, perform some maneuvers and jettison the service module. 
+But after that service module jettison, vessel state is incomplete, with no RCS or aerodynamic parameters for reentry.
+
+I don't have time to finish it, so I'm releasing it as is, in the hope that others might complete it!
+Feel free to complete it or share improved config files on Orbiter Forum. You'll be credited as co-author on a future release. Likewise, if you complete and release it, list me (4throck) as co-author. 
+
+You are allowed to finish it and release it as an add-on for Orbiter 2016, provided you credit me for the 3D mesh and initial development, but the addon must be realistic (that is, realistic physical parameters and mission profile are used, and the addon is complete enough so that you can perform a full mission - launch, dock, landing). I also allow it to be distributed with other addons (ex: Ariane 5) provided the same realistic conditions are met.
+
+Cheers,
+4thRock
