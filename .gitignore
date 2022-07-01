@@ -1703,3 +1703,6 @@
 /Orbiter.cfg
 /Orbiter.log
 /keymap.cfg
+/Modules/Server/Config
+/Modules/D3D9Client/D3D9ClientLog.html
+/Orbiter_NG.cfg
