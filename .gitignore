@@ -1706,3 +1706,7 @@
 /Modules/Server/Config
 /Modules/D3D9Client/D3D9ClientLog.html
 /Orbiter_NG.cfg
+/OrbiterSound_Log.txt
+/VB1_Exceptions.log
+/VesselBuilder1.log
+/spacecraft_dbg.txt
